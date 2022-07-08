@@ -1,0 +1,1376 @@
+[
+    {
+        "PropertyID": "TOOLS_000001",
+        "Categories": [
+            "css",
+            "generator"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": "Menu Cool",
+        "DescriptionEnglish": "Rich HTML mega menu, or unlimited multi-level dropdowns. Supported by all other major browsers (including IE8+).",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "http://www.menucool.com/css-menu",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000002",
+        "Categories": [
+            "css",
+            "colors"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": "Wand",
+        "DescriptionEnglish": "Easy Copy-Paste beautiful CSS that can be easily customized further for your use case",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.csswand.dev/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000003",
+        "Categories": [
+            "css",
+            "generator",
+            "html"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": "Accordion Slider",
+        "DescriptionEnglish": "CSS Accordion Slider Generator. Create fully responsive, CSS only accordion sliders",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://accordionslider.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000004",
+        "Categories": [
+            "css",
+            "buttons"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Beautiful buttons with copy-to-clipboard code. Just click and paste the code into your project",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://markodenic.com\/tools\/buttons-generator/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000005",
+        "Categories": [
+            "css",
+            "shadow"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Beautiful CSS box-shadow examples",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://getcssscan.com/css-box-shadow-examples",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000006",
+        "Categories": [
+            "css",
+            "generator"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Get started with this free CSS generator based on the Glassmorphism design specifications to quickly design and customize the style properties.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://ui.glass\/generator/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000007",
+        "Categories": [
+            "css",
+            "shadow"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "This is a web app to help you create awesome box shadows.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://box-shadow.dev/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000008",
+        "Categories": [
+            "css",
+            "shadow",
+            "generator"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Create a set of lush, realistic CSS shadows, a beautiful shadow generator",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.joshwcomeau.com\/shadow-palette/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000009",
+        "Categories": [
+            "css",
+            "borders"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Custom scrollbar CSS compatible with all Modern Browsers",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://codepen.io\/stephenpaton-tech/full/JjRvGmY",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000010",
+        "Categories": [
+            "css",
+            "borders"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Create organic-looking shapes by using eight values specifying border-radius in CSS",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://9elements.github.io/fancy-border-radius/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000011",
+        "Categories": [
+            "css",
+            "ui/ux"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Unique UI elements that will help you stand out. All code is open-source and free to use, just copy and paste.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://uiverse.io/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000012",
+        "Categories": [
+            "css"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Glassmorphism is a design style, coined by Michal Malewicz from Hype4.Academy",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://hype4.academy/tools/glassmorphism-generator",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000013",
+        "Categories": [
+            "css"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Neumorphism was born from skeuomorphism and went on to create an entirely new UX style.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://neumorphism.io/#e0e0e0",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000033",
+        "Categories": [
+            "icons"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "A super-fast color palette generator. Get inspired by thousands of color schemes or generate your own.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "color",
+            "color palettes",
+            "gradients",
+            "colors",
+            "color palette generator"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://coolors.co/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000034",
+        "Categories": [
+            "icons"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Iconography for Grommet and React.js",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "icons",
+            "library"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://icons.grommet.io/?",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000035",
+        "Categories": [
+            "icons"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Icon Explorer with Instant searching, powered by Iconify",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "icons",
+            "library"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://icones.js.org/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000048",
+        "Categories": [
+            "icons"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Download free icons and stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD, and BASE 64 formats.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "icons",
+            "library"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.flaticon.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000049",
+        "Categories": [
+            "illustrations"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "A massive library of free 3D objects for anything at all",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "illustrations",
+            "3D",
+            "library",
+            "arts",
+            "creators",
+            "design"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.shapefest.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000050",
+        "Categories": [
+            "illustrations"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Open Doodles is a set of free illustrations that embraces the idea of Open Design. You can copy, edit, remix, share or redraw these images for any purpose without restriction under copyright or database law (CC0 license.)",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "illustrations",
+            "3D",
+            "library",
+            "arts",
+            "creators",
+            "design"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.opendoodles.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000057",
+        "Categories": [
+            "illustrations"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Collection of high-resolution vector or illustrations background images for modern websites and landing pages. Updated every week with new illustrations with different topics.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "illustrations",
+            "3D",
+            "library",
+            "arts",
+            "creators",
+            "design"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.freellustrations.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000058",
+        "Categories": [
+            "domain",
+            "hosting"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Vercel combines the best developer experience with an obsessive focus on end-user performance",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "domain",
+            "hosting"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://vercel.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000061",
+        "Categories": [
+            "domain"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Namecheap is an ICANN-accredited domain name registrar providing domain name registration and web hosting based in Phoenix, Arizona, US. Namecheap is a budget hosting provider with 11 million registered users and 10 million domains",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "domain",
+            "hosting"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.namecheap.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000062",
+        "Categories": [
+            "domain",
+            "hosting"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "A lot of services ",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "domain",
+            "hosting"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.godaddy.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000063",
+        "Categories": [
+            "extensions"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "WAVE is a web accessibility evaluation tool developed by WebAIM.org. It provides visual feedback about the accessibility of your web content by injecting icons and indicators into your page. No automated tool can tell you if your page is accessible, but WAVE facilitates human evaluation and educates about accessibility issues. All analysis is done entirely within the Chrome browser allowing secure valuation of intranet, local, password-protected, and other sensitive web pages.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "chrome extensions"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000074",
+        "Categories": [
+            "javascript"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "A small JavaScript library to create and animate annotations on a web page",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "animation",
+            "java script library"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://roughnotation.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000075",
+        "Categories": [
+            "css",
+            "javascript",
+            "react"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Animate.css is a cross-browser plug-and-play CSS animation library for delightful animation in websites and web applications.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "animation",
+            "web applications",
+            "libraries"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://animate.style/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000076",
+        "Categories": [
+            "libraries",
+            "javascript",
+            "react"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Animista is a place where you can play with a collection of pre-made CSS animations, tweak them and get only those you will actually use.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "animation",
+            "libraries"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://animista.net/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000077",
+        "Categories": [
+            "libraries",
+            "javascript",
+            "react"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "React-spring is a spring-physics-based animation library that should cover most of your UI-related animation needs. It gives you tools flexible enough to confidently cast your ideas into moving interfaces.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "animation",
+            "libraries"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://react-spring.io/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000078",
+        "Categories": [
+            "libraries",
+            "javascript",
+            "react"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "AOS allows you to animate elements as you scroll down, and up. If you scroll back to top, elements will animate to its previous state and are ready to animate again if you scroll down.\n",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "animation,libraries"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https:\/\/michalsnik.github.io\/aos\/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000079",
+        "Categories": [
+            "libraries",
+            "javascript",
+            "react"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "A production-ready motion library for React. Utilize the power behind Framer, the best prototyping tool for teams",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "animation",
+            "libraries"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.framer.com/motion/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000080",
+        "Categories": [
+            "mockups"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Create stunning product mockups easily and online. Create professional mockups right inside your browser, even on the go",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://smartmockups.com/es",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000081",
+        "Categories": [
+            "mockups"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Mockuper is a free online mockup generator that lets you design your product mockups easily and quickly. Choose between desktop, phone, tablet, and even posters or business cards mockups.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https:\/\/mockuper.net\/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000082",
+        "Categories": [
+            "mockups"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "The simplest way to create device mockups. All in your browser. To level up your presentation and engage your audience. Take snapshots & create animation scenes, all in 3D.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://previewed.app/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000087",
+        "Categories": [
+            "inspirations"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Find specific design inspiration for web, mobile, and tablet. Search over 6,191 patterns categorized and handpicked for you",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://uigarage.net/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000088",
+        "Categories": [
+            "inspirations"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Collection of awesome websites to help creatives find inspiration & motivation to do rad stuff.\n",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://land-book.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000089",
+        "Categories": [
+            "inspirations"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Behance is a social media platform owned by Adobe whose main focus is to showcase and discover creative work.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.behance.net/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000095",
+        "Categories": [
+            "inspirations"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "One Page websites, templates, and resources. Get Inspiration, find Templates or browse Resources",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://onepagelove.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000096",
+        "Categories": [
+            "no-code"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Create QR codes for your projects, pictures, or whatever you feel like",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://freecodetools.org\/qr-code-generator/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000102",
+        "Categories": [
+            "video"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Stunning free images & royalty-free stock. Over 2.5 million+ high-quality stock images, videos, and music shared by our talented community",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "graph",
+            "video"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://pixabay.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000103",
+        "Categories": [
+            "video"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "The best free stock photos, royalty-free images & videos shared by creators",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "graph",
+            "video"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.pexels.com/es-es/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000112",
+        "Categories": [
+            "image"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Professional quality creative resources to get your projects done faster",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "graph"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.vecteezy.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000113",
+        "Categories": [
+            "image"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "More than 1700 free food photos",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "graph"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.foodiesfeed.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000114",
+        "Categories": [
+            "image"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Truly unique. Usually whimsy.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "graph"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://gratisography.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000115",
+        "Categories": [
+            "image"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "High-Resolution, Royalty-Free, Stock Images",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "graph"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://picography.co/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000116",
+        "Categories": [
+            "content",
+            "editors"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Edit photos and create stunning designs right in your browser, on your phone, or desktop for free. Start from an empty canvas, a photo, a video, or select one of our professionally crafted templates",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "image",
+            "video",
+            "text",
+            "effects"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://pixlr.com/es/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000122",
+        "Categories": [
+            "image"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "This cloud-hosted, highly scalable tool can resize your images within seconds! Simply upload your image and enter a target size. Its as easy as that!",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "image optimization"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://imageresizer.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000123",
+        "Categories": [
+            "image",
+            "video"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Find the perfect royalty-free image for your next project from the worlds best catalog of creative photography, illustrations, vectors, video. ",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "creative",
+            "editorial",
+            "image",
+            "library",
+            "catalog",
+            "video"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.gettyimages.es/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000124",
+        "Categories": [
+            "image",
+            "content",
+            "editors"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Remove any unwanted object, defect, people, or text from your pictures in seconds",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "image optimization"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://cleanup.pictures/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000129",
+        "Categories": [
+            "frameworks",
+            "html"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Rapidly build modern websites without ever leaving your HTML.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "frameworks"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://tailwindcss.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000130",
+        "Categories": [
+            "frameworks",
+            "css"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "frameworks"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://bulma.io/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000131",
+        "Categories": [
+            "frameworks",
+            "css",
+            "html"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Minimal CSS Framework for semantic HTML",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "frameworks"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://picocss.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000132",
+        "Categories": [
+            "frameworks",
+            "html",
+            "css",
+            "javascript"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open-source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "frameworks"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://getbootstrap.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000133",
+        "Categories": [
+            "marketing"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": null,
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000139",
+        "Categories": [
+            "ebooks",
+            "gamming"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": "¡Dale al Play!",
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": "Aprende a crear un juego móvil increíble. Te explica cómo hacerlo paso a paso, desde la idea hasta el desarrollo.",
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.yeeply.com/landing/descarga-ebook-crear-juego-movil/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000140",
+        "Categories": [
+            "ebooks"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": null,
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000141",
+        "Categories": [
+            "ebooks"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": null,
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000142",
+        "Categories": [
+            "ebooks"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": null,
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000143",
+        "Categories": [
+            "gamming"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": "GameSalad",
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": "Es una herramienta de creación de tipo arrastrar y soltar. Por ello es de las más sencillas de utilizar si no tienes conocimientos de programación. Otro punto a favor es que GameSalad te permite publicar y compartir tu juego online para diferentes plataformas y tiendas. \nSi quieres ahorrar tiempo, puedes buscar en su marketplace de plantillas para que no tengas que empezar desde cero. Escoge una plantilla, personalízala y tu juego estará listo para lanzar antes de lo que habías imaginado.\n\n",
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://gamesalad.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000144",
+        "Categories": [
+            "gamming"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": "Stencyl",
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": "El diseñador de juegos de Stencyl rinde homenaje al proyecto MIT Scratch. Con su sistema de tiles y jerarquización de cada elemento, podrás crear todo tipo de juegos 2D simplemente arrastrando tiles y asignando propiedades, sin necesidad de saber nada de código. Sin embargo, si tienes algunos conocimientos, también puedes crear y compartir tus propios bloques, importar librerías y escribir tus clases personalizadas que interactúan perfectamente con los comportamientos basados en bloques.",
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.stencyl.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000148",
+        "Categories": [
+            "gamming",
+            "virtual reallity",
+            "augmented reality",
+            "films"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": "Unreal Engine",
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": "Podríamos decir que es el tope de gama. Se trata de la plataforma para crear videojuegos para consolas y móviles más avanzada. Unreal Engine va más allá, ya que también tiene aplicaciones en el mundo del cine, realidad virtual y realidad aumentada.",
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://unity.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000149",
+        "Categories": [
+            "metaverse"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": null,
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000150",
+        "Categories": [
+            "metaverse"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": null,
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000151",
+        "Categories": [
+            "metaverse"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": null,
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000152",
+        "Categories": [
+            "films"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": null,
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": null,
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": null,
+        "Media": null
+    }
+]

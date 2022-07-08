@@ -1,0 +1,177 @@
+[
+    {
+        "PropertyID": "TOOLS_000001",
+        "Categories": [
+            "css",
+            "generator"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": "Menu Cool",
+        "DescriptionEnglish": "Rich HTML mega menu, or unlimited multi-level dropdowns. Supported by all other major browsers (including IE8+).",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "http://www.menucool.com/css-menu",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000002",
+        "Categories": [
+            "css",
+            "colors"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": " Wand",
+        "DescriptionEnglish": "Easy Copy-Paste beautiful CSS that can be easily customized further for your use case",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://www.csswand.dev/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000003",
+        "Categories": [
+            "css",
+            "generator",
+            "html"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": "Accordion Slider",
+        "DescriptionEnglish": "CSS Accordion Slider Generator. Create fully responsive, CSS only accordion sliders",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://accordionslider.com/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000004",
+        "Categories": [
+            "css",
+            "buttons"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Beautiful buttons with copy-to-clipboard code. Just click and paste the code into your project",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://markodenic.com\/tools\/buttons-generator/",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000005",
+        "Categories": [
+            "css",
+            "shadow"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Beautiful CSS box-shadow examples",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://getcssscan.com/css-box-shadow-examples",
+        "Media": null
+    },
+    {
+        "PropertyID": "TOOLS_000006",
+        "Categories": [
+            "css",
+            "generator"
+        ],
+        "Categories-ESP": null,
+        "Categories-PORT": null,
+        "Name": null,
+        "DescriptionEnglish": "Get started with this free CSS generator based on the Glassmorphism design specifications to quickly design and customize the style properties.",
+        "DescriptionSpanish": null,
+        "DescriptionPortuguese": null,
+        "KeyWords": [
+            "effects",
+            "generators",
+            "full responsive",
+            "buttons",
+            "code",
+            "box shadow",
+            "shadows",
+            "border radius",
+            "UI",
+            "UX style"
+        ],
+        "KeyWords-ESP": null,
+        "KeyWords-PORT": null,
+        "Link": "https://ui.glass\/generator/",
+        "Media": null
+    }
+]
