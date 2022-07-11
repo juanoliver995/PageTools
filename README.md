@@ -1,6 +1,6 @@
 # PageTools
 
-Este proyecto consta de un buscador de tools para el mundo digital
+Este proyecto consta de un buscador de tools para trabajar en el mundo digital.
 
 ## Funcionalidades
 
